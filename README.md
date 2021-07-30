@@ -39,4 +39,4 @@ Please watch the recorded 30-min lecture before we start
 
 The Jupyter Notebook can be run from Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fernando-Montes/NS3_2021/blob/main/README.md/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fernando-Montes/NS3_2021/blob/main?filepath=notebook%2Fmasses.ipynb)
