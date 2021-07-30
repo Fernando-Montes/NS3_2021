@@ -1,6 +1,6 @@
-# NS3 2020
+# NS3 2021
 
-Git repository containing Tuesday's activity for NS3 School 2020
+Git repository containing Tuesday's activity for NS3 School 2021
 
 
 ## Summary of the lecture
