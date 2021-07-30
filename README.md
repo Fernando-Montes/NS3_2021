@@ -17,7 +17,7 @@ you will have the opportunity to see the importance of some of those nuclear
 physics properties in the creation of elements.
 
 
-## Schedule
+## Schedule (To be updated)
 
 Please watch the recorded 30-min lecture before we start
 
@@ -39,3 +39,4 @@ Please watch the recorded 30-min lecture before we start
 The Jupyter Notebook can be run from Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagiuliani/NS3_2020.git/master?filepath=notebook%2Fmasses.ipynb)
+
