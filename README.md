@@ -1,6 +1,7 @@
 # NS3 2021
 
 Git repository containing Tuesday's activity for NS3 School 2021
+(Original version Samuel Giuliani https://github.com/sagiuliani/NS3_2020)
 
 
 ## Summary of the lecture
@@ -38,5 +39,4 @@ Please watch the recorded 30-min lecture before we start
 
 The Jupyter Notebook can be run from Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagiuliani/NS3_2020.git/master?filepath=notebook%2Fmasses.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fernando-Montes/NS3_2021/blob/main/README.md/HEAD)
