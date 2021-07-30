@@ -18,7 +18,7 @@ you will have the opportunity to see the importance of some of those nuclear
 physics properties in the creation of elements.
 
 
-## Schedule (To be updated)
+## Schedule 
 
 Please watch the recorded 30-min lecture before we start
 
